@@ -2,7 +2,7 @@
 
 ---
 
-<!-- .slide: data-background="./test.png" -->
+<!-- .slide: data-background="./assets/test.png" -->
 
 # Markdown 语法
 
